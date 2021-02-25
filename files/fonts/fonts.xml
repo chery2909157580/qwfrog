@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="DengXian Light" className="FskyFont_Dengl" url="./files/fonts/font-0-0-2021225112548592.swf"/>
+    <font name="DengXian" className="FskyFont_Deng" url="./files/fonts/font-1-0-2021225112548593.swf"/>
+    <font name="DengXian" className="FskyFont_Dengb" url="./files/fonts/font-1-1-2021225112548593.swf"/>
+  </fonts>
+</data>
